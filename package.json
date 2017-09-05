@@ -1,0 +1,22 @@
+{
+  "name": "project-typescript-api",
+  "version": "0.0.1",
+  "description": "Creation d'une API avec express et typescrypt pour gerer une todo list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djaafarcode/project-typescript-api.git"
+  },
+  "author": "D. BOUMAZA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djaafarcode/project-typescript-api/issues"
+  },
+  "homepage": "https://github.com/djaafarcode/project-typescript-api#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
